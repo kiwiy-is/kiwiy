@@ -34,3 +34,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# apps/remix-quick-start
+.cache
